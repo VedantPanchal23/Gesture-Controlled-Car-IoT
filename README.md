@@ -78,3 +78,6 @@ A hand gesture-controlled robotic car using Arduino, MPU6050, and nRF24L01 for w
 **Power:**
 - 2 × 18650 Batteries (~7.4V) connected to VCC_2 (motor power supply)
 - Separate 3.7V supply to Arduino Uno via VCC_1
+
+
+## Contributions are welcome! Please fork the repository and submit a pull request.
